@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Klee+One:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&display=swap');
+
+
+th:first-child, td:first-child {
+  width: 3%;
+}
+
+th:nth-child(2), td:nth-child(2) {
+  width: 57%;
+}
+
+
+.container-tasks{
+	margin-top: 50px;
+}
+
+.btn-primary{
+	margin-top: 10px;
+}
+
+.emoji{
+	margin-bottom:10px;
+}
+
+.fa-marker{
+	
+	color: #3d405b;
+	font-size: 20px;
+	cursor: pointer;
+}
+
+.fa-trash-can{
+	color: #d62828;
+	font-size: 20px;
+	cursor: pointer;
+}
+
+td{
+	font-family: 'Klee One', cursive;
+	font-size: 18px;
+}
+
+.container h1 {
+  font-size: 25px;
+  color: #0077b6;
+}
+
+.btn-add-task{
+	background-color:  #0077b6 !important;
+	color: #fff !important;
+}
+
+.btn-add-task:hover{
+	transform: scale(0.94) !important;
+}
+
+
